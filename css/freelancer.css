@@ -386,5 +386,5 @@ a:focus, a:hover, a:active {
 
 /*add css*/
 .clearfix:after{content:"";display: block;clear: both;}
-#about ul.skill-icon{}
-#about ul.skill-icon>li{float: left;font-size:2em !important;}
+
+ul.skill-icon li{float: left !important;}

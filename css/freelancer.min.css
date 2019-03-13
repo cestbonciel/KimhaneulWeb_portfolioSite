@@ -15,3 +15,8 @@
     font-size: 2em;
 }*/
 
+/*add css*/
+.clearfix:after{content:"";display: block;clear: both;}
+
+ul.skill-icon li{float: left !important;padding-right: 15px;margin-left: 15px;}
+ul.skill-icon li:hover i.fab{color: #343a40;}
