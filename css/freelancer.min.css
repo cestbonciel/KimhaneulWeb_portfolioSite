@@ -22,3 +22,5 @@ ul.skill-icon li{float: left !important;padding-right: 15px;margin-left: 15px;}
 ul.skill-icon li:hover i.fab{color: #343a40;}
 ul.skill-icon li:last-child{padding-right: 0;}
 ul.skill-icon li:first-child{margin-left:20px;}
+
+.portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content{padding-top: 100px !important;}
